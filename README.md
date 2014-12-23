@@ -1,6 +1,4 @@
 bede-mss
 ========
 
-Census of Bede Manuscripts Website
-
-Testing Jekyll/Github-Pages as vehicle for Census of Bede Manuscripts project website.
+A repository for testing Jekyll/Github-Pages as a vehicle for publishing the Census of Bede Manuscripts project website.
