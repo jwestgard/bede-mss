@@ -6,11 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-    <div id="header-frame">
-        <div id="header-text">
-            <h1>Census of Bede Manuscripts</h1>
-        </div>
-    </div>
+    {% include header.html %}
     <div id="main-frame">
         <h2>Welcome</h2>
         <p>Welcome to the website of the Census of Bede Manuscripts, a collaborative, scholarly project to create a definitive list of the medieval manuscript copies of the works of the Venerable Bede.</p>
@@ -29,11 +25,6 @@
         </ul>
         <hr />
     </div>
-    <div id="footer-frame">
-        <div id="footer-text">
-            <p>© 2010-2014 Joshua A. Westgard. Updated: 2014-Dec-23.<br />
-            Questions or comments? Send email to <a href="mailto:admin@bedemanuscripts.net">admin@bedemanuscripts.net</a>.</p>
-        </div>
-    </div>
+    {% include footer.html %}
 </body>
 </html>
