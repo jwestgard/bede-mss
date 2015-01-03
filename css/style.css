@@ -1,0 +1,30 @@
+body {  margin: 0;
+        height: 100%;
+        font-family: Verdana, Geneva, sans-serif;
+        }
+
+#header-frame { background-color: #EBECE4;
+                margin: 0px auto;
+                padding: 5px;
+                }
+                    
+#header-text {  margin: auto;
+                width: 90%;
+                height: auto;
+                }
+                
+#header-text a {    text-decoration: none; 
+                    color: black;
+                    }
+                
+#main-frame {   width: 90%;
+                margin: 0px auto;
+                }
+
+#footer-frame { margin: 0px auto 40px;
+                }
+
+#footer-text {  margin: auto;
+                width: 90%;
+                font-size: 80%;
+                }
