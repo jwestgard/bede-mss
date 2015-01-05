@@ -6,6 +6,7 @@ body {  margin: 0;
 #header-frame { background-color: #EBECE4;
                 margin: 0px auto;
                 padding: 5px;
+                border-bottom: 1px solid black;
                 }
                     
 #header-text {  margin: auto;
