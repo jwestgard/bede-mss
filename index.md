@@ -1,9 +1,9 @@
 ---
 title: Home
 title-display: Census of Bede Manuscripts
+mod-date: 2014-01-04
 layout: default
 ---
-
 ## Welcome
 Welcome to the website of the Census of Bede Manuscripts, a collaborative, scholarly project to create a definitive list of the medieval manuscript copies of the works of the Venerable Bede.
 
