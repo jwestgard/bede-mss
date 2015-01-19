@@ -155,7 +155,9 @@
 	"Text"			:	["PL 91.1065-1236B", "CCSL 119B.165-375 (ed. Hurst)"],
 	"Translation"	:	"A. Holder, The Venerable Bede: On the Song of Songs and Selected Writings, Classics of Western Spirituality (Mahwah, NJ: Paulist Press, 2011)."
 },{
-On the Canticle of Habakkuk (CPL 1354). 
+	"Latin"			:	""
+	"English"		:	"On the Canticle of Habakkuk",
+	"CPL" 			:	"CPL 1354",
 	"Text"			:	["PL 91.1235-54C", "CCSL 119B.370-409 (ed. Hudson)"],
 	"Translation"	:	"S. Connolly, Bede: On Tobit and on the Canticle of Habakkuk (Dublin: Four Courts, 1997), 65-95."
 },{
