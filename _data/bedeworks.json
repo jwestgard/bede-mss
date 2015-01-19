@@ -47,7 +47,7 @@
 	"Latin"			:	"Historia ecclesiastica gentis Anglorum",
 	"English"		:	"The History of the English Church and People",
 	"CPL"			:	"CPL 1375",
-	"Text"			:	["PL 95.21-290C", "Plummer, VBOH I.5-360", "B. Colgrave (trans.) and R. Mynors (ed.), Bede's Ecclesiastical History of the English People, Oxford Medieval Texts (Oxford, 1969, rev. ed. 1991)", "M. Lapidge (ed.) and P. Chiesa (trans.), Beda: Storia degli Inglesi, 2 vols. (Milan: Fondazione Lorenzo Valla/Mondadori, 2008-10)"] 
+	"Text"			:	["PL 95.21-290C", "Plummer, VBOH I.5-360", "B. Colgrave (trans.) and R. Mynors (ed.), Bede's Ecclesiastical History of the English People, Oxford Medieval Texts (Oxford, 1969, rev. ed. 1991)", "M. Lapidge (ed.) and P. Chiesa (trans.), Beda: Storia degli Inglesi, 2 vols. (Milan: Fondazione Lorenzo Valla/Mondadori, 2008-10)"],
 	"TextNote"		:	"Plummer's critical apparatus and extensive commentary remain essential. The commentary of J. M. Wallace-Hadrill, published as a companion to the Colgrave-Mynors edition, is in fact a supplement to the commentary of Plummer and should be read alongside it. The edition of Lapidge and Chiesa has an introduction, translation, and commentary in Italian.",
 	"Translation"	:	"These are many and various, but perhaps most widely read and useful are the those in the series Oxford World's Classics (which reprints Colgrave's translation with corrections) and Penguin Classics."
 },{
