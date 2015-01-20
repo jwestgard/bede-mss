@@ -1,271 +1,273 @@
 [{
-	"Latin"			:	"De arte metrica",
-	"English"		:	"The Art of Poetry",
-	"CPL"			:	"CPL 1565 sqq.", 
-	"Text"			:	["PL 90.149-76A", "CCSL 123A.59-141 (ed. Kendall)"],
-	"TextNote"		:	"Latin text also printed alongside Kendall's translation.",
-	"Translation"	:	"C. Kendall, Bede: Libri ii De Arte Metrica et De Schematibus et Tropis / The Art of Poetry and Rhetoric, Bibliotheca Germanica 2 (Saarbrücken: AQ Verlag, 1991), 36-167."
-},{
-	"Latin"			:	"De schematibus et tropis",
-	"English"		:	"The Figures of Rhetoric",
-	"CPL" 			:	"CPL 1565 sqq.", 
-	"Text" 			: 	["PL 90.175-86D", "CCSL 123A.142-71 (ed. Kendall)"],
-	"TextNote" 		: 	"Latin text also printed alongside Kendall's translation.",
-	"Translation" 	: 	"C. Kendall, Bede: Libri ii De Arte Metrica et De Schematibus et Tropis / The Art of Poetry and Rhetoric, Bibliotheca Germanica 2 (Saarbrücken: AQ Verlag, 1991), 168-216."
-},{
-	"Latin"			:	"De orthographia",
-	"English"		:	"On Orthography",
-	"CPL"			:	"CPL 1565 sqq.", 
-	"Text"			:	["PL 90.123-50", "CCSL 123A (ed. Jones)"],
-	"Translation"	:	"None"
-},{
-	"Latin"			:	"De natura rerum",
-	"English"		:	"On the Nature of Things",
-	"CPL"			:	"CPL 1343", 
-	"Text"			:	["PL 90.187-278A", "CCSL 123A.173-234 (ed. Jones)"],
-	"Translation"	:	"Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 69-103."
-},{
-	"Latin"			:	"De temporibus",
-	"English"		:	"On Times",
-	"CPL"			:	"See CPL 2273 and 2318 sqq.", 
-	"Text"			:	["PL 90.277-92C", "CCSL 123B (ed. Jones)"],
-	"Translation"	:	"Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 105-31."
-},{
-	"Latin"			:	"De temporum ratione",
-	"English"		:	"The Reckoning of Time",
-	"CPL"			:	"See CPL 2273 and 2318 sqq.", 
-	"Text"			:	["PL 90.293-578D", "CCSL 123B.260-544 (ed. Jones)"],
-	"TextNote"		:	"The introduction printed in the CCSL edition is, unfortunately, inadequate, but one may still refer profitably to the introduction to Jones' earlier edition, Bedae Opera de Temporibus, Medieval Academy Publications 41 (Cambridge, MA: Medieval Academy of America, 1943).",
-	"Translation"	:	"F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999)."
-},{
-	"Latin"			:	"De locis sanctis",
-	"English"		:	"On the Holy Places",
-	"CPL"			:	"CPL 2333", 
-	"Text"			:	["J. A. Giles, Complete Works 4, pp. 402-43", "P. Geyer, Itinera Hierosloymitana saeculi IIII-VIII, CSEL 39 (Vienna, 1898), pp. 299-324", "CCSL 175 (ed. Fraipont)"],
-	"Translation"	:	"Foley, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 1-25."
-},{
-	"Latin"			:	"Historia ecclesiastica gentis Anglorum",
-	"English"		:	"The History of the English Church and People",
-	"CPL"			:	"CPL 1375",
-	"Text"			:	["PL 95.21-290C", "Plummer, VBOH I.5-360", "B. Colgrave (trans.) and R. Mynors (ed.), Bede's Ecclesiastical History of the English People, Oxford Medieval Texts (Oxford, 1969, rev. ed. 1991)", "M. Lapidge (ed.) and P. Chiesa (trans.), Beda: Storia degli Inglesi, 2 vols. (Milan: Fondazione Lorenzo Valla/Mondadori, 2008-10)"],
-	"TextNote"		:	"Plummer's critical apparatus and extensive commentary remain essential. The commentary of J. M. Wallace-Hadrill, published as a companion to the Colgrave-Mynors edition, is in fact a supplement to the commentary of Plummer and should be read alongside it. The edition of Lapidge and Chiesa has an introduction, translation, and commentary in Italian.",
-	"Translation"	:	"These are many and various, but perhaps most widely read and useful are the those in the series Oxford World's Classics (which reprints Colgrave's translation with corrections) and Penguin Classics."
-},{
-	"Latin"			:	"Vita BB. Abbatum Benedicti, Ceolfridi, Eosterwini, Sigfridi et Hwaetberti",
-	"English"		:	"Lives of the Abbots of Wearmouth and Jarrow",
-	"CPL"			:	"CPL 1378", 
-	"Text"			:	["PL 94.713B-24A", "Plummer, VBOH I.364-87"],
-	"TextNote"		:	"Text printed alongside the anonymous life of Ceolfrith, an earlier source for some of the same material, which has at times been attributed to Bede)."],
-	"Translation"	:	"J. Webb, The Age of Bede (Harmondsworth: Penguin, 1965, rev. ed. 1998), 185-210."
-},{
-	"Latin"			:	"Chronica maiora",
-	"English"		:	"The Greater Chronicle",
-	"CPL"			:	"ch. 66 of DTR; see CPL 2273", 
-	"Text"			:	["PL 90.520C-78D", "T. Mommsen, MGH AA 13 (Chronica minora 3; Berlin, 1898), 223-354", "CCSL 123B.461-544 (ed. Mommsen)"],
-	"Translation"	:	"Wallis, Bede: The Reckoning of Time, 157-237; McClure and Collins, Bede's Ecclesiastical History, 305-40 (= 6th age only)."
-},{
-	"Latin"			:	"Chronica minora",
-	"English"		:	"The Lesser Chronicle",
-	"CPL"			:	"chs. 17-22 of DT; see CPL 2273", 
-	"Text"			:	["PL 90.288-92", "CCSL 123C.601-611 (ed. Mommsen)"],
-	"Translation"	:	"Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 117-31."
-},{
-	"Latin"			:	"Vita Cuthberti metrica",
-	"English"		:	"Metrical Life of Cuthbert",
-	"CPL"			:	"CPL 1380", 
-	"Text"			:	["PL 94.575B-96B", "W. Jaager, Bedas metrische Vita sancti Cuthberti, Palaestra 198 (Leipzig: Mayer and Müller, 1935)."],
-	"Translation"	:	"None; though Michael Lapidge is preparing a new edition and translation of all of Bede's poetry for Oxford Medieval Texts."
-},{
-	"Latin"			:	"Vita Cuthberti prosaica",
-	"English"		:	"Prose Life of Cuthbert",
-	"CPL"			:	"CPL 1381", 
-	"Text"			:	["PL 94.733B-90A", "B. Colgrave, Two Lives of St. Cuthbert (Cambridge: CUP, 1940), 141-307"],
-	"Translation"	:	["B. Colgrave, Two Lives of St. Cuthbert (Cambridge: CUP, 1940), 141-307", "J. Webb, The Age of Bede (Harmondsworth: Penguin, 1998), 41-104."]
-},{
-	"Latin"			:	"Vita Felicis",
-	"English"		:	"Life of Felix",
-	"CPL"			:	"CPL 1382", 
-	"Text"			:	["PL 94.789-98B", "T. Mackay, A Critical Edition of Bede's Vita Felicis, Ph.D. dissertation, Stanford University, 1971."],
-	"Translation"	:	"None."
-},{
-	"Latin"			:	"Passio Anastasii",
-	"English"		:	"Passion of Anastasius",
-	"CPL"			:	"CPL 1382a; BHL 408", 
-	"Text"			:	"C. Franklin, The Latin Dossier of Anastasius the Persian (Toronto: Pontifical Institute of Medieval Studies, 2004)."
-},{
-	"Latin"			:	"Martyrologium",
-	"English"		:	"Martyrology",
-	"CPL"			:	"see CPL 2032 and 1301", 
-	"Text"			:	["PL 94.797D-1148C", "J. Dubois and G. Renaud, Edition pratique des martyrologes de Bède… (Paris, 1976); also essential is H. Quentin, Les martyrologes historiques du moyen Âge (Paris, 1908), esp. ch. 2 [at Internet Archive]."],
-	"Translation"	:	"F. Lifshitz, in Medieval Hagiography: An Anthology, ed. Thomas Head, Garland Reference Library of the Humanities 1942 (New York and London: Garland, 2000), 169-97."
-},{
-	"Latin"			:	"In principium Genesis",
-	"English"		:	"Commentary on the Beginning of Genesis",
-	"CPL"			:	"CPL 1344", 
-	"Text"			:	["PL 91.9-190C", "both the shorter version in two books (sometimes called the Hexaemeron), and the longer version in four books are edited in CCSL 118A (ed. Jones). N.B.: Contrary to Jones, the truncated short version (Ia only, as opposed to the longer two-book version, Ia + Ib) is probably not Bedan; see Kendall's discussion in the introduction to the translation."],
-	"Translation"	:	"C. Kendall, Bede: On Genesis, TTH 48 (Liverpool: Liverpool UP, 2008)."
-},{
-	"Latin"			:	"De tabernaculo",
-	"English"		:	"On the Tabernacle",
-	"CPL"			:	"CPL 1345", 
-	"Text"			:	["PL 91.393-498D", "CCSL 119A.1-139."],
-	"Translation"	:	"A. Holder, Bede: On the Tabernacle, TTH 18 (Liverpool: Liverpool UP, 1994)."
-},{
-	"Latin"			:	"In primam partem Samuhelis libri IIII",
-	"English"		:	"Commentary on First Samuel",
-	"CPL"			:	"CPL 1346", 
-	"Text"			:	["PL 91.499-714D", "CCSL 119.5-272 (ed. Hurst)."],
-	"Translation"	:	"A translation for TTH is in preparation by G. H. Brown."
-},{
-	"Latin"			:	"De templo Salomonis",
-	"English"		:	"On the Temple",
-	"CPL"			:	"CPL 1348", 
-	"Text"			:	["PL 91.735-808A", "CCSL 119A.143-234."],
-	"Translation"	:	"S. Connolly, Bede: On the Temple, TTH 21 (Liverpool: Liverpool UP, 1995)."
-},{
-	"Latin"			:	"In Ezram et Neemiam",
-	"English"		:	"On Ezra and Nehemiah",
-	"CPL"			:	"CPL 1349", 
-	"Text"			:	["PL 91.807-924C", "CCSL 119A.235-392 (ed. Hurst)."],
-	"Translation"	:	"S. DeGregorio, Bede: On Ezra and Nehemiah, TTH 47 (Liverpool: Liverpool UP, 2006)."
-},{
-	"Latin"			:	"In Tobiam",
-	"English"		:	"On Tobias",
-	"CPL"			:	"CPL 1350", 
-	"Text"			:	["PL 91.923-38A", "CCSL 119B.1-19 (ed. Hurst)."],
-	"Translation"	:	["S. Connolly, Bede: On Tobit and on the Canticle of Habakkuk (Dublin: Four Courts, 1997), 39-63.",
-						"T. W. Foley in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 53-79."]
-},{
-	"Latin"			:	"Collectio Psalterii",
-	"CPL"			:	"CPL 1371",
-	"Text"			:	["PL 94.515-27 (Libellus precum)", 
-						"CCSL 122.452-70 (ed. Fraipont)", 
-						"G. M. Browne, Collectio Psalterii Bedae Venerabili adscripta (Munich: K. G. Saur, 2001)."],
-	"Translation"	:	"G. M. Browne, The Abbreviated Psalter of the Venerable Bede (Grand Rapids: Eerdmans, 2002)."
-},{
-	"Latin"			:	"In Parabolas Salomonis",
-	"English"		:	"On the Proverbs of Solomon",
-	"CPL"			:	"CPL 1351", 
-	"Text"			:	["PL 91.937-1040D", "CCSL 119B.21-163 (ed. Hurst)"],
-	"Translation"	:	"None"
-},{
-	"Latin"			:	"In Cantica Canticorum",
-	"English"		:	"On the Song of Songs",
-	"CPL"			:	"CPL 1353", 
-	"Text"			:	["PL 91.1065-1236B", "CCSL 119B.165-375 (ed. Hurst)"],
-	"Translation"	:	"A. Holder, The Venerable Bede: On the Song of Songs and Selected Writings, Classics of Western Spirituality (Mahwah, NJ: Paulist Press, 2011)."
-},{
-	"Latin"			:	""
-	"English"		:	"On the Canticle of Habakkuk",
-	"CPL" 			:	"CPL 1354",
-	"Text"			:	["PL 91.1235-54C", "CCSL 119B.370-409 (ed. Hudson)"],
-	"Translation"	:	"S. Connolly, Bede: On Tobit and on the Canticle of Habakkuk (Dublin: Four Courts, 1997), 65-95."
-},{
-	"Latin"			:	"In Marci euangelium expositio",
-	"English"		:	"Commentary on the Gospel of Mark",
-	"CPL"			:	"CPL 1355", 
-	"Text"			:	["PL 92.131-302C", "CCSL 120.427-648 (ed. Hurst)"],
-	"Translation"	:	"None"
-},{
-	"Latin"			:	"In Lucae euangelium expositio",
-	"English"		:	"Commentary on the Gospel of Luke",
-	"CPL"			:	"CPL 1356", 
-	"Text"			:	["PL 92.301D-634D", "CCSL 120.1-425 (ed. Hurst)"],
-	"Translation"	:	"None"
-},{
-	"Latin"			:	"Super Acta Apostolorum expositio",
-	"English"		:	"On the Acts of the Apostles",
-	"CPL"			:	"CPL 1357", 
-	"Text"			:	["PL 92.937-96A", "CCSL 121.1-99 (ed. Laistner)"],
-	"Translation"	:	"L. Martin, The Venerable Bede: Commentary on the Acts of the Apostles, CS 117 (Kalamazoo: Cistercian Publications, 1989)."
-},{
-	"Latin"			:	"Bede subsequently supplemented this work with Retractiones",
-	"English"		:	"Retractions",
-	"CPL"			:	"CPL 1358", 
-	"Text"			:	["PL 92.995-1032C", "CCSL 121.101-163 (ed. Laistner)"],
-	"Translation"	:	"None, though some comments on the content of the Retractions may be found in the notes to Martin's translation of the commentary."
-},{
-	"Latin"			:	"Collectio Bedae presbyteri ex opusculis sancti Augustini in Epistulas Pauli Apostoli",
-	"English"		:	"Excerpts from the Works of Augustine on the Pauline Epistles",
-	"CPL"			:	"CPL 1360", 
-	"Text"			:	["None"],
-	"TextNote"		:	"An edition is said to be in preparation for CCSL by I. Fransen.",
-	"Translation"	:	"D. Hurst, Bede the Venerable: Excerpts from the Works of Saint Augustine on the Letters of the Blessed Apostle Paul, CS 183 (Kalamazoo: Cistercian Publications, 2006)."
-},{
-	"English"		:	"Commentary on the Seven Catholic Epistles",
-	"CPL"			:	"CPL 1362", 
-	"Text"			:	["PL 93.9-130C", "CCSL 121.179-342 (ed. Hurst)"],
-	"Translation"	:	"D. Hurst, Bede the Venerable: Commentary on the Seven Catholic Epistles, CS 82 (Kalamazoo: Cistercian Publications, 1985)."
-},{
-	"Latin" 		:	"Expositio Apocalypseos",
-	"CPL"			:	"CPL 1363",
-	"Text"			:	["PL 93.129D-206", "CCSL 119B.370-409 (ed. Gryson)"],
-	"Translation"	:	"E. Marshall, The Explanation of the Apocalypse by Venerable Beda (Oxford, James Parker, 1878); a new translation by Faith Wallis is forthcoming in the TTH series."
-},{
-	"Latin"			:	"Homeliarum euangelii libri ii",
-	"English"		:	"Homilies on the Gospels",
-	"CPL"			:	"CPL 1367", 
-	"Text"			:	["PL 94.9-516A", "CCSL 122 (ed. Hurst)"],
-	"TextNote"		:	"In addition to the genuine fifty homilies, the PL edition contains many spurious homilies.",
-	"Translation"	:	"Martin and Hurst, Bede the Venerable: Homilies on the Gospels, 2 vols., CS 110-111 (Kalamazoo: Cistercian Publications, 1991)."
-},{
-	"Latin"			:	"De mansionibus filiorum Israel",
-	"English"		:	"On the Resting-Places of the Children of Israel (to Acca)", 
-	"Text"			:	"PL 94.699-702B.",
-	"Translation"	:	"Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 27-34."
-},{
-	"Latin"			:	"De eo quod ait Isaias",
-	"English"		:	"On What Isaiah Said (to Acca)",
-	"CPL"			:	"CPL 1366", 
-	"Text"			:	"PL 94.702B-10",
-	"Translation"	:	"Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 35-51."
-},{
-	"Latin"			:	"In Regum librum XXX quaestiones",
-	"English"		:	"Thirty Questions on the Book of Kings (to Nothhelm)",
-	"CPL"			:	"CPL 1347", 
-	"Text"			:	["PL 91.715-36C", "CCSL 119.289-322 (ed. Hurst)"],
-	"Translation"	:	"Foley, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 81-143."
-},{
-	"Latin"			:	"Aliquot questionum liber",
-	"English"		:	"On Eight Questions",
-	"CPL"			:	"to Nothhelm) (CPL 1364", 
-	"Text"			:	"PL 93.455B-78A",
-	"TextNote"		:	"Printed together with some additional, spurious questions; on this work now see also, Eric Knibbs, \"The Manuscript Evidence for the De octo quaestionibus Ascribed to Bede,\" Traditio 63 (2008): 129-83."
-	"Translation"	:	"A. Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 149-65"
-},{
-	"Latin"			:	"Epistula ad Ecgbertum episcopum",
-	"English"		:	"Letter to Ecgberht",
-	"CPL"			:	"CPL 1376", 
-	"Text"			:	["PL 94.657B-68", "Venerabilis Baedae Opera Historica (ed. Plummer, Oxford, 1896), I.405-23"],
-	"Translation"	:	"McClure and Collins, Bede's Ecclesiastical History of the English People (Oxford: OUP, 1994), 341-57."
-},{
-	"Latin"			:	"Epistula ad Pleguinam",
-	"English"		:	"Letter to Plegwin",
-	"CPL"			:	"CPL 2319", 
-	"Text"			:	["PL 94.669-75C", "CCSL 123C.613-26"],
-	"Translation"	:	"F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 405-15."
-},{
-	"Latin"			:	"Epistula ad Helmuualdum",
-	"English"		:	"Letter to Helmwald", 
-	"Text"			:	"CCSL 123C.627-29",
-	"Translation"	:	"F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 416."
-},{
-	"Latin"			:	"Epistula ad Uuicthedum",
-	"English"		:	"Letter to Wicthed",
-	"CPL"			:	"CPL 2321", 
-	"Text"			:	["PL 94.675D-82A", "CCSL 123C.631-42."],
-	"Translation"	:	"F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 417-24."
-},{
-	"Latin"			:	"Epistula ad Albinum abbatem",
-	"English"		:	"Letter to Albinus",
-	"CPL"			:	"CPL 1374", 
-	"Text"			:	["PL 94.655D-57A", "J. Westgard, \"New Manuscripts of Bede's Letter to Albinus,\" Revue Bénédictine 120 (2010): 208-15."],
-	"Translation"	:	["J. Westgard, \"New Manuscripts of Bede's Letter to Albinus,\" Revue Bénédictine 120 (2010): 208-15", "P. Meyvaert, \"'In the Footsteps of the Fathers': The Date of Bede's Thirty Questions on the Book of Kings to Nothelm,\" in The Limits of Ancient Christianity, ed. W. Klingshirn and M. Vessey (Ann Arbor: Univ. Michigan Press, 1999), 267-86, at 278."]
-},{
-	"Latin"			:	"Liber hymnorum diuerso metro siue rythmo; Liber epigrammatum heroico metro siue elegiaco",
-	"English"		:	"Book of hymns and book of epigrams",
-	"Text"			:	["CCSL 122.405-70 (ed. Fraipont)"],
-	"TextNote"		:	"\"Bede the Poet,\" by Michael Lapidge (Jarrow Lecture, 1993); repr. in his Anglo-Latin Literature 600-899, no. 11.",
-	"Translation"	:	"None."
+ "Latin" : "De arte metrica",
+ "English" : "The Art of Poetry",
+ "CPL" : "CPL 1565 sqq.", 
+ "Text" : ["PL 90.149-76A", "CCSL 123A.59-141 (ed. Kendall)"],
+ "TextNote" : "Latin text also printed alongside Kendall's translation.",
+ "Translation" : "C. Kendall, Bede: Libri ii De Arte Metrica et De Schematibus et Tropis / The Art of Poetry and Rhetoric, Bibliotheca Germanica 2 (Saarbrücken: AQ Verlag, 1991), 36-167."
 },
-]
+{"Latin" : "De schematibus et tropis",
+ "English" : "The Figures of Rhetoric",
+ "CPL" : "CPL 1565 sqq.", 
+ "Text" : ["PL 90.175-86D", "CCSL 123A.142-71 (ed. Kendall)"],
+ "TextNote" : "Latin text also printed alongside Kendall's translation.",
+ "Translation" : "C. Kendall, Bede: Libri ii De Arte Metrica et De Schematibus et Tropis / The Art of Poetry and Rhetoric, Bibliotheca Germanica 2 (Saarbrücken: AQ Verlag, 1991), 168-216."
+},
+{"Latin" : "De orthographia",
+ "English" : "On Orthography",
+ "CPL" : "CPL 1565 sqq.", 
+ "Text" : ["PL 90.123-50", "CCSL 123A (ed. Jones)"],
+ "Translation" : "None"
+},
+{"Latin" : "De natura rerum",
+ "English" : "On the Nature of Things",
+ "CPL" : "CPL 1343", 
+ "Text" : ["PL 90.187-278A", "CCSL 123A.173-234 (ed. Jones)"],
+ "Translation" : "Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 69-103."
+},
+{"Latin" : "De temporibus",
+ "English" : "On Times",
+ "CPL" : "See CPL 2273 and 2318 sqq.", 
+ "Text" : ["PL 90.277-92C", "CCSL 123B (ed. Jones)"],
+ "Translation" : "Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 105-31."
+},
+{"Latin" : "De temporum ratione",
+ "English" : "The Reckoning of Time",
+ "CPL" : "See CPL 2273 and 2318 sqq.", 
+ "Text" : ["PL 90.293-578D", "CCSL 123B.260-544 (ed. Jones)"],
+ "TextNote" : "The introduction printed in the CCSL edition is, unfortunately, inadequate, but one may still refer profitably to the introduction to Jones' earlier edition, Bedae Opera de Temporibus, Medieval Academy Publications 41 (Cambridge, MA: Medieval Academy of America, 1943).",
+ "Translation" : "F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999)."
+},
+{"Latin" : "De locis sanctis",
+ "English" : "On the Holy Places",
+ "CPL" : "CPL 2333", 
+ "Text" : ["J. A. Giles, Complete Works 4, pp. 402-43", "P. Geyer, Itinera Hierosloymitana saeculi IIII-VIII, CSEL 39 (Vienna, 1898), pp. 299-324", "CCSL 175 (ed. Fraipont)"],
+ "Translation" : "Foley, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 1-25."
+},
+{"Latin" : "Historia ecclesiastica gentis Anglorum",
+ "English" : "The History of the English Church and People",
+ "CPL" : "CPL 1375",
+ "Text" : ["PL 95.21-290C", "Plummer, VBOH I.5-360", "B. Colgrave (trans.) and R. Mynors (ed.), Bede's Ecclesiastical History of the English People, Oxford Medieval Texts (Oxford, 1969, rev. ed. 1991)", "M. Lapidge (ed.) and P. Chiesa (trans.), Beda: Storia degli Inglesi, 2 vols. (Milan: Fondazione Lorenzo Valla/Mondadori, 2008-10)"],
+ "TextNote" : "Plummer's critical apparatus and extensive commentary remain essential. The commentary of J. M. Wallace-Hadrill, published as a companion to the Colgrave-Mynors edition, is in fact a supplement to the commentary of Plummer and should be read alongside it. The edition of Lapidge and Chiesa has an introduction, translation, and commentary in Italian.",
+ "Translation" : "These are many and various, but perhaps most widely read and useful are the those in the series Oxford World's Classics (which reprints Colgrave's translation with corrections) and Penguin Classics."
+},
+{"Latin" : "Vita BB. Abbatum Benedicti, Ceolfridi, Eosterwini, Sigfridi et Hwaetberti",
+ "English" : "Lives of the Abbots of Wearmouth and Jarrow",
+ "CPL" : "CPL 1378", 
+ "Text" : ["PL 94.713B-24A", "Plummer, VBOH I.364-87"],
+ "TextNote" : "Text printed alongside the anonymous life of Ceolfrith, an earlier source for some of the same material, which has at times been attributed to Bede).",
+ "Translation" : "J. Webb, The Age of Bede (Harmondsworth: Penguin, 1965, rev. ed. 1998), 185-210."
+},
+{"Latin" : "Chronica maiora",
+ "English" : "The Greater Chronicle",
+ "CPL" : "ch. 66 of DTR; see CPL 2273", 
+ "Text" : ["PL 90.520C-78D", "T. Mommsen, MGH AA 13 (Chronica minora 3; Berlin, 1898), 223-354", "CCSL 123B.461-544 (ed. Mommsen)"],
+ "Translation" : "Wallis, Bede: The Reckoning of Time, 157-237; McClure and Collins, Bede's Ecclesiastical History, 305-40 (= 6th age only)."
+},
+{"Latin" : "Chronica minora",
+ "English" : "The Lesser Chronicle",
+ "CPL" : "chs. 17-22 of DT; see CPL 2273", 
+ "Text" : ["PL 90.288-92", "CCSL 123C.601-611 (ed. Mommsen)"],
+ "Translation" : "Kendall and Wallis, Bede: On the Nature of Things and On Times, TTH 56 (Liverpool: Liverpool UP, 2010), 117-31."
+},
+{"Latin" : "Vita Cuthberti metrica",
+ "English" : "Metrical Life of Cuthbert",
+ "CPL" : "CPL 1380", 
+ "Text" : ["PL 94.575B-96B", "W. Jaager, Bedas metrische Vita sancti Cuthberti, Palaestra 198 (Leipzig: Mayer and Müller, 1935)."],
+ "Translation" : "None; though Michael Lapidge is preparing a new edition and translation of all of Bede's poetry for Oxford Medieval Texts."
+},
+{"Latin" : "Vita Cuthberti prosaica",
+ "English" : "Prose Life of Cuthbert",
+ "CPL" : "CPL 1381", 
+ "Text" : ["PL 94.733B-90A", "B. Colgrave, Two Lives of St. Cuthbert (Cambridge: CUP, 1940), 141-307"],
+ "Translation" : ["B. Colgrave, Two Lives of St. Cuthbert (Cambridge: CUP, 1940), 141-307", "J. Webb, The Age of Bede (Harmondsworth: Penguin, 1998), 41-104."]
+},
+{"Latin" : "Vita Felicis",
+ "English" : "Life of Felix",
+ "CPL" : "CPL 1382", 
+ "Text" : ["PL 94.789-98B", "T. Mackay, A Critical Edition of Bede's Vita Felicis, Ph.D. dissertation, Stanford University, 1971."],
+ "Translation" : "None."
+},
+{"Latin" : "Passio Anastasii",
+ "English" : "Passion of Anastasius",
+ "CPL" : ["CPL 1382a", "BHL 408"], 
+ "Text" : "C. Franklin, The Latin Dossier of Anastasius the Persian (Toronto: Pontifical Institute of Medieval Studies, 2004)."
+},
+{"Latin" : "Martyrologium",
+ "English" : "Martyrology",
+ "CPL" : "see CPL 2032 and 1301", 
+ "Text" : ["PL 94.797D-1148C", "J. Dubois and G. Renaud, Edition pratique des martyrologes de Bède… (Paris, 1976)"],
+ "TextNote" : "Also essential: H. Quentin, Les martyrologes historiques du moyen Âge (Paris, 1908), esp. ch. 2 [at Internet Archive].",
+ "Translation" : "F. Lifshitz, in Medieval Hagiography: An Anthology, ed. Thomas Head, Garland Reference Library of the Humanities 1942 (New York and London: Garland, 2000), 169-97."
+},
+{"Latin" : "In principium Genesis",
+ "English" : "Commentary on the Beginning of Genesis",
+ "CPL" : "CPL 1344", 
+ "Text" : ["PL 91.9-190C", "both the shorter version in two books (sometimes called the Hexaemeron), and the longer version in four books are edited in CCSL 118A (ed. Jones). N.B.: Contrary to Jones, the truncated short version (Ia only, as opposed to the longer two-book version, Ia + Ib) is probably not Bedan; see Kendall's discussion in the introduction to the translation."],
+ "Translation" : "C. Kendall, Bede: On Genesis, TTH 48 (Liverpool: Liverpool UP, 2008)."
+},
+{"Latin" : "De tabernaculo",
+ "English" : "On the Tabernacle",
+ "CPL" : "CPL 1345", 
+ "Text" : ["PL 91.393-498D", "CCSL 119A.1-139."],
+ "Translation" : "A. Holder, Bede: On the Tabernacle, TTH 18 (Liverpool: Liverpool UP, 1994)."
+},
+{"Latin" : "In primam partem Samuhelis libri IIII",
+ "English" : "Commentary on First Samuel",
+ "CPL" : "CPL 1346", 
+ "Text" : ["PL 91.499-714D", "CCSL 119.5-272 (ed. Hurst)."],
+ "Translation" : "A translation for TTH is in preparation by G. H. Brown."
+},
+{"Latin" : "De templo Salomonis",
+ "English" : "On the Temple",
+ "CPL" : "CPL 1348", 
+ "Text" : ["PL 91.735-808A", "CCSL 119A.143-234."],
+ "Translation" : "S. Connolly, Bede: On the Temple, TTH 21 (Liverpool: Liverpool UP, 1995)."
+},
+{"Latin" : "In Ezram et Neemiam",
+ "English" : "On Ezra and Nehemiah",
+ "CPL" : "CPL 1349", 
+ "Text" : ["PL 91.807-924C", "CCSL 119A.235-392 (ed. Hurst)."],
+ "Translation" : "S. DeGregorio, Bede: On Ezra and Nehemiah, TTH 47 (Liverpool: Liverpool UP, 2006)."
+},
+{"Latin" : "In Tobiam",
+ "English" : "On Tobias",
+ "CPL" : "CPL 1350", 
+ "Text" : ["PL 91.923-38A", "CCSL 119B.1-19 (ed. Hurst)."],
+ "Translation" : ["S. Connolly, Bede: On Tobit and on the Canticle of Habakkuk (Dublin: Four Courts, 1997), 39-63.",
+ "T. W. Foley in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 53-79."]
+},
+{"Latin" : "Collectio Psalterii",
+ "English" : "Abbreviated Psalter",
+ "CPL" : "CPL 1371",
+ "Text" : ["PL 94.515-27 (Libellus precum)", 
+ "CCSL 122.452-70 (ed. Fraipont)", 
+ "G. M. Browne, Collectio Psalterii Bedae Venerabili adscripta (Munich: K. G. Saur, 2001)."],
+ "Translation" : "G. M. Browne, The Abbreviated Psalter of the Venerable Bede (Grand Rapids: Eerdmans, 2002)."
+},
+{"Latin" : "In Parabolas Salomonis",
+ "English" : "On the Proverbs of Solomon",
+ "CPL" : "CPL 1351", 
+ "Text" : ["PL 91.937-1040D", "CCSL 119B.21-163 (ed. Hurst)"],
+ "Translation" : "None"
+},
+{"Latin" : "In Cantica Canticorum",
+ "English" : "On the Song of Songs",
+ "CPL" : "CPL 1353", 
+ "Text" : ["PL 91.1065-1236B", "CCSL 119B.165-375 (ed. Hurst)"],
+ "Translation" : "A. Holder, The Venerable Bede: On the Song of Songs and Selected Writings, Classics of Western Spirituality (Mahwah, NJ: Paulist Press, 2011)."
+},
+{"Latin" : "",
+ "English" : "On the Canticle of Habakkuk",
+ "CPL" : "CPL 1354",
+ "Text" : ["PL 91.1235-54C", "CCSL 119B.370-409 (ed. Hudson)"],
+ "Translation" : "S. Connolly, Bede: On Tobit and on the Canticle of Habakkuk (Dublin: Four Courts, 1997), 65-95."
+},
+{"Latin" : "In Marci euangelium expositio",
+ "English" : "Commentary on the Gospel of Mark",
+ "CPL" : "CPL 1355", 
+ "Text" : ["PL 92.131-302C", "CCSL 120.427-648 (ed. Hurst)"],
+ "Translation" : "None"
+},
+{"Latin" : "In Lucae euangelium expositio",
+ "English" : "Commentary on the Gospel of Luke",
+ "CPL" : "CPL 1356", 
+ "Text" : ["PL 92.301D-634D", "CCSL 120.1-425 (ed. Hurst)"],
+ "Translation" : "None"
+},
+{"Latin" : "Super Acta Apostolorum expositio",
+ "English" : "On the Acts of the Apostles",
+ "CPL" : "CPL 1357", 
+ "Text" : ["PL 92.937-96A", "CCSL 121.1-99 (ed. Laistner)"],
+ "Translation" : "L. Martin, The Venerable Bede: Commentary on the Acts of the Apostles, CS 117 (Kalamazoo: Cistercian Publications, 1989)."
+},
+{"Latin" : "Bede subsequently supplemented this work with Retractiones",
+ "English" : "Retractions",
+ "CPL" : "CPL 1358", 
+ "Text" : ["PL 92.995-1032C", "CCSL 121.101-163 (ed. Laistner)"],
+ "Translation" : "None, though some comments on the content of the Retractions may be found in the notes to Martin's translation of the commentary."
+},
+{"Latin" : "Collectio Bedae presbyteri ex opusculis sancti Augustini in Epistulas Pauli Apostoli",
+ "English" : "Excerpts from the Works of Augustine on the Pauline Epistles",
+ "CPL" : "CPL 1360", 
+ "Text" : ["None"],
+ "TextNote" : "An edition is said to be in preparation for CCSL by I. Fransen.",
+ "Translation" : "D. Hurst, Bede the Venerable: Excerpts from the Works of Saint Augustine on the Letters of the Blessed Apostle Paul, CS 183 (Kalamazoo: Cistercian Publications, 2006)."
+},
+{"English" : "Commentary on the Seven Catholic Epistles",
+ "CPL" : "CPL 1362", 
+ "Text" : ["PL 93.9-130C", "CCSL 121.179-342 (ed. Hurst)"],
+ "Translation" : "D. Hurst, Bede the Venerable: Commentary on the Seven Catholic Epistles, CS 82 (Kalamazoo: Cistercian Publications, 1985)."
+},
+{"Latin" : "Expositio Apocalypseos",
+ "English" : "Commentary on Revelation",
+ "CPL" : "CPL 1363",
+ "Text" : ["PL 93.129D-206", "CCSL 119B.370-409 (ed. Gryson)"],
+ "Translation" : "E. Marshall, The Explanation of the Apocalypse by Venerable Beda (Oxford, James Parker, 1878); a new translation by Faith Wallis is forthcoming in the TTH series."
+},
+{"Latin" : "Homeliarum euangelii libri ii",
+ "English" : "Homilies on the Gospels",
+ "CPL" : "CPL 1367", 
+ "Text" : ["PL 94.9-516A", "CCSL 122 (ed. Hurst)"],
+ "TextNote" : "In addition to the genuine fifty homilies, the PL edition contains many spurious homilies.",
+ "Translation" : "Martin and Hurst, Bede the Venerable: Homilies on the Gospels, 2 vols., CS 110-111 (Kalamazoo: Cistercian Publications, 1991)."
+},
+{"Latin" : "De mansionibus filiorum Israel",
+ "English" : "On the Resting-Places of the Children of Israel (to Acca)", 
+ "Text" : "PL 94.699-702B.",
+ "Translation" : "Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 27-34."
+},
+{"Latin" : "De eo quod ait Isaias",
+ "English" : "On What Isaiah Said (to Acca)",
+ "CPL" : "CPL 1366", 
+ "Text" : "PL 94.702B-10",
+ "Translation" : "Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 35-51."
+},
+{"Latin" : "In Regum librum XXX quaestiones",
+ "English" : "Thirty Questions on the Book of Kings (to Nothhelm)",
+ "CPL" : "CPL 1347", 
+ "Text" : ["PL 91.715-36C", "CCSL 119.289-322 (ed. Hurst)"],
+ "Translation" : "Foley, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 81-143."
+},
+{"Latin" : "Aliquot questionum liber",
+ "English" : "On Eight Questions",
+ "CPL" : "to Nothhelm) (CPL 1364", 
+ "Text" : "PL 93.455B-78A",
+ "TextNote" : "Printed together with some additional, spurious questions; on this work now see also, Eric Knibbs, \"The Manuscript Evidence for the De octo quaestionibus Ascribed to Bede,\" Traditio 63 (2008): 129-83.",
+ "Translation" : "A. Holder, in Bede: A Biblical Miscellany, ed. Foley and Holder, TTH 28 (Liverpool: Liverpool UP, 1999), 149-65"
+},
+{"Latin" : "Epistula ad Ecgbertum episcopum",
+ "English" : "Letter to Ecgberht",
+ "CPL" : "CPL 1376", 
+ "Text" : ["PL 94.657B-68", "Venerabilis Baedae Opera Historica (ed. Plummer, Oxford, 1896), I.405-23"],
+ "Translation" : "McClure and Collins, Bede's Ecclesiastical History of the English People (Oxford: OUP, 1994), 341-57."
+},
+{"Latin" : "Epistula ad Pleguinam",
+ "English" : "Letter to Plegwin",
+ "CPL" : "CPL 2319", 
+ "Text" : ["PL 94.669-75C", "CCSL 123C.613-26"],
+ "Translation" : "F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 405-15."
+},
+{"Latin" : "Epistula ad Helmuualdum",
+ "English" : "Letter to Helmwald", 
+ "Text" : "CCSL 123C.627-29",
+ "Translation" : "F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 416."
+},
+{"Latin" : "Epistula ad Uuicthedum",
+ "English" : "Letter to Wicthed",
+ "CPL" : "CPL 2321", 
+ "Text" : ["PL 94.675D-82A", "CCSL 123C.631-42."],
+ "Translation" : "F. Wallis, Bede: The Reckoning of Time, TTH 29 (Liverpool: Liverpool UP, 1999), 417-24."
+},
+{"Latin" : "Epistula ad Albinum abbatem",
+ "English" : "Letter to Albinus",
+ "CPL" : "CPL 1374", 
+ "Text" : ["PL 94.655D-57A", "J. Westgard, \"New Manuscripts of Bede's Letter to Albinus,\" Revue Bénédictine 120 (2010): 208-15."],
+ "Translation" : ["J. Westgard, \"New Manuscripts of Bede's Letter to Albinus,\" Revue Bénédictine 120 (2010): 208-15", "P. Meyvaert, \"'In the Footsteps of the Fathers': The Date of Bede's Thirty Questions on the Book of Kings to Nothelm,\" in The Limits of Ancient Christianity, ed. W. Klingshirn and M. Vessey (Ann Arbor: Univ. Michigan Press, 1999), 267-86, at 278."]
+},
+{"Latin" : "Liber hymnorum diuerso metro siue rythmo; Liber epigrammatum heroico metro siue elegiaco",
+ "English" : "Book of hymns and book of epigrams",
+ "Text" : ["CCSL 122.405-70 (ed. Fraipont)"],
+ "TextNote" : "\"Bede the Poet,\" by Michael Lapidge (Jarrow Lecture, 1993); repr. in his Anglo-Latin Literature 600-899, no. 11.",
+ "Translation" : "None."
+}]
